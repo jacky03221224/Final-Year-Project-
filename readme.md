@@ -30,5 +30,7 @@ Bullish: 0.60 to 1.00 <br>
 Neutral: -0.59 to 0.59 <br>
 Bearish: -0.60 to -1.00
 </p>
-<h2>Task2: Interation into the Fama-French three-factor model</h2>
+<h2>Task2: Intergation into the Fama-French three-factor model</h2>
+
+<h2>Task3: Implementing real-life long-short investment strategies</h2>
 </div>
