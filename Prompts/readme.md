@@ -7,5 +7,5 @@
 
 <div>
 <h2>Directional Sentiment Prompt</h2>
-<p>The directional_sentiment.docx file is used to determine the directional sentiment of the news.</p>
+<p>The directional_sentiment_prompt.docx file is used to determine the directional sentiment of the news.</p>
 </div>
