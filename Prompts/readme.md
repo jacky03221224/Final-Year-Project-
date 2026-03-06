@@ -1,4 +1,6 @@
 <h1>Prompts used in calculating the sentiment score</h1>
+<h2>Reminders</h2>
+<p>** When using the prompt, you should replace &lt;Company Name&gt; and  &lt;Company Ticker&gt; with the actual company's name and ticker.</p>
 
 <div>
 <h2>Relevance Prompt</h2>
