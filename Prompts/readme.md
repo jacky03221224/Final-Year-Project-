@@ -12,9 +12,8 @@
 <p>The directional_sentiment_prompt.docx file is used to determine the directional sentiment of the news.</p>
 </div>
 
-<h1>Programs</h1>
-<h2>data_cleaning.py</h2>
-<p>This is a program based on the data cleaning prompt.</p>
+<h2>cleaning_prompt.py</h2>
+<p>This is a prompt designed for cleaning the raw datasets.</p>
 <p>It performs the following task:
 <ol>
 <li>Remove rows with missing values</li> 
