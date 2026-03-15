@@ -1,0 +1,28 @@
+{
+  "aliases": ["abbott", "abbott laboratories", "abt"],
+  "products": [
+    "freestyle libre", "libre 2", "libre 3", "libre 3 plus",
+    "freestyle libre pro", "freestyle precision neo", "freestyle optium", "freestyle insulinx",
+    "alinity", "alinity m", "alinity i", "alinity c", "alinity h", "alinity s",
+    "i-STAT", "i-STAT Alinity",
+    "panbio", "ID NOW", "BinaxNOW",
+    "architect", "AxSYM", "Clearview", "Determine",
+    "mitraclip", "heartmate", "cardiomems", "amplatzer septal occluder", "tendyne mitral valve", "navitor TAVR", "aveir leadless pacemaker", "volt pfa", "triclip",
+    "pedialyte", "ensure", "glucerna", "similac", "pediasure", "elecare",
+    "continuous glucose monitor", "blood glucose meter", "rapid diagnostic", "structural heart device", "diabetes management", "medical device", "diagnostic device", "nutrition product"
+  ],
+  "direct_keywords": [
+    "earnings", "EPS", "revenue", "sales", "guidance", "outlook", "profit", "margin", "dividend", "buyback", "forecast", "Q1", "Q2", "Q3", "Q4", "quarter",
+    "FDA", "CE Mark", "approval", "approved", "clearance", "ban", "recall", "lawsuit", "verdict", "ruling", "settlement", "trial", "clinical", "IDE", "MDL",
+    "acquisition", "merger", "M&A", "spin-off", "spin off", "partnership", "joint venture", "JV", "price target", "upgrade", "downgrade", "analyst",
+    "CEO", "CFO", "resigns", "appoints", "layoffs", "plant", "factory", "tariff", "strike", "guidance",
+    "clinical trial", "breakthrough", "emergency use", "market launch", "product launch", "new product", "pipeline", "innovation", "patent", "distribution", "supply chain", "expansion", "facility", "manufacturing", "regulatory filing", "investigation", "FDA panel", "advisory committee", "preliminary results", "final results", "commercialization", "sales milestone", "milestone payment", "leadership change", "board member", "executive", "management", "shareholder", "proxy", "annual meeting", "special meeting", "press release", "conference call", "webcast", "presentation", "investor day", "capital allocation", "debt offering", "equity offering", "stock split", "reverse split", "divestiture", "asset sale", "restructuring", "reorganization", "rebranding", "recapitalization", "joint development", "technology transfer", "distribution agreement", "licensing", "collaboration", "co-development", "co-marketing"
+  ],
+  "indirect_keywords": [
+    "competitor", "peer", "industry", "sector", "medtech", "healthcare", "pharma", "device", "CGM", "diabetes", "nutrition", "structural heart", "TAVI", "Libre", "DexCom", "Medtronic", "Boston Scientific", "J&J", "Reckitt", "Mead Johnson", "infant formula", "NEC", "tariff", "trade", "regulation", "CMS", "reimbursement", "marketwide", "ETF", "Dividend Aristocrats", "Dividend Kings",
+    "health policy", "insurance", "payer", "coverage", "access", "affordability", "cost", "pricing", "health system", "hospital", "clinic", "provider", "patient", "treatment", "therapy", "procedure", "diagnosis", "monitoring", "testing", "screening", "prevention", "chronic disease", "acute care", "outpatient", "inpatient", "telehealth", "remote monitoring", "digital health", "wearable", "mobile health", "health IT", "data analytics", "AI", "machine learning", "robotics", "automation", "sustainability", "ESG", "environmental", "social", "governance", "diversity", "inclusion", "supply disruption", "shortage", "safety", "quality", "compliance", "audit", "inspection", "warning letter", "consent decree", "settlement", "litigation", "class action", "antitrust", "competition", "market share", "growth", "decline", "trend", "forecast", "projection", "estimate", "valuation", "multiple", "peer comparison", "benchmark", "index", "fund", "portfolio", "institutional investor", "retail investor", "hedge fund", "mutual fund", "dividend yield", "total return", "risk", "volatility", "performance", "outperformance", "underperformance"
+  ],
+  "low_signal_phrases": [
+    "roundup", "top stocks", "stocks to buy", "dividend kings", "dividend aristocrats", "passive income", "what to know", "pre-market", "pre market", "health care roundup", "podcast", "week ahead", "analysis", "commentary", "blog", "highlights"
+  ]
+}
