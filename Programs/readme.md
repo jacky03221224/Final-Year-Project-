@@ -2,7 +2,7 @@
 
 <div>
 <h2>data_cleaning.py</h2>
-<p>This is a program based on the [data cleaning prompt](Prompts/data_cleaning_prompt_docx).</p>
+<p>This is a program based on the [data cleaning prompt](Prompts/readme.md).</p>
 <p>It performs the following task:
 <ol>
 <li>Remove rows with missing values</li> 
