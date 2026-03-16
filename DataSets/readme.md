@@ -8,5 +8,5 @@ The Cleaned_Datasets folder contains the cleaned datasets after passing the raw 
 ## Processed_Datasets_TFIDF
 The Processed_Datasets_TFIDF folder contains the deduplicated datasets after passing the cleaned datasets into the deduplicate_TFIDF.py.
 
-# Processed_Datasets_Transformer
+## Processed_Datasets_Transformer
 The Processed_Datasets_Transformer folder contains the deduplicated datasets after passing the cleaned datasets into the deduplicate_transformer.py.
