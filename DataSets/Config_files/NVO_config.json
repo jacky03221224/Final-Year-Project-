@@ -1,0 +1,115 @@
+{
+  "aliases": [
+    "novo nordisk",
+    "novo nordisk a/s",
+    "nvo",
+    "nvo stock",
+    "ozempic maker",
+    "wegovy maker"
+  ],
+
+  "products": [
+    "ozempic",
+    "wegovy",
+    "rybelsus",
+    "alhemo",
+    "semaglutide",
+    "cagrisema",
+    "amycretin",
+    "glp-1",
+    "glp-1ra",
+    "oral glp-1",
+    "once-weekly glp-1",
+    "monthly glp-1"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "sales growth",
+    "operating profit",
+    "margin",
+    "guidance",
+    "outlook",
+    "forecast",
+    "quarter",
+    "full year",
+    "share buyback",
+    "capital allocation",
+    "stock split",
+
+    "clinical trial",
+    "phase 1",
+    "phase 2",
+    "phase 3",
+    "pivotal trial",
+    "topline results",
+    "endpoint",
+    "safety",
+    "adverse event",
+
+    "fda approval",
+    "ema approval",
+    "chmp opinion",
+    "label expansion",
+    "regulatory filing",
+
+    "manufacturing",
+    "capacity expansion",
+    "supply constraint",
+    "shortage",
+    "production facility",
+    "catalent",
+
+    "acquisition",
+    "merger",
+    "partnership",
+    "licensing deal",
+
+    "obesity",
+    "diabetes",
+    "mash",
+    "ckd",
+    "cardiovascular outcomes"
+  ],
+
+  "indirect_keywords": [
+    "pharmaceuticals",
+    "healthcare sector",
+    "biotech",
+    "obesity market",
+    "weight loss drugs",
+    "diabetes market",
+    "drug pricing",
+    "medicare",
+    "medicaid",
+    "reimbursement",
+    "compounding",
+    "drug shortage list",
+    "competitor",
+    "eli lilly",
+    "zepbound",
+    "mounjaro",
+    "tirzepatide",
+    "oral obesity pill",
+    "health policy",
+    "esg",
+    "sustainability"
+  ],
+
+  "low_signal_phrases": [
+    "market roundup",
+    "morning brief",
+    "top gainers",
+    "top losers",
+    "stocks to watch today",
+    "week ahead",
+    "technical analysis",
+    "chart setup",
+    "price action only",
+    "opinion only",
+    "podcast episode",
+    "blog post",
+    "social media reaction"
+  ]
+}

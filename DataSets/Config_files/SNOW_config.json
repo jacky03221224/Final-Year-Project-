@@ -1,0 +1,109 @@
+{
+  "aliases": [
+    "snowflake",
+    "snowflake inc",
+    "snow",
+    "snow stock",
+    "snowflake nyse",
+    "ai data cloud",
+    "data cloud company"
+  ],
+
+  "products": [
+    "data cloud",
+    "ai data cloud",
+    "snowflake marketplace",
+    "snowpark",
+    "snowflake cortex",
+    "snowflake intelligence",
+    "dynamic tables",
+    "hybrid tables",
+    "unistore",
+    "openflow",
+    "zero copy integration",
+    "iceberg tables"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "product revenue",
+    "consumption",
+    "remaining performance obligations",
+    "rpo",
+    "net revenue retention",
+    "gross margin",
+    "operating margin",
+    "free cash flow",
+    "guidance",
+    "outlook",
+    "forecast",
+    "quarter",
+    "full year",
+
+    "ai monetization",
+    "genai",
+    "ai workloads",
+    "ai agents",
+    "cortex ai",
+    "ai platform",
+
+    "product launch",
+    "platform update",
+    "investor day",
+    "conference call",
+
+    "acquisition",
+    "merger",
+    "partnership",
+    "strategic collaboration",
+
+    "ceo",
+    "cfo",
+    "management commentary"
+  ],
+
+  "indirect_keywords": [
+    "cloud computing",
+    "data infrastructure",
+    "enterprise software",
+    "analytics platform",
+    "machine learning",
+    "ai applications",
+
+    "hyperscaler",
+    "aws",
+    "microsoft azure",
+    "google cloud",
+
+    "databricks",
+    "oracle",
+    "palantir",
+    "mongodb",
+
+    "open source",
+    "apache iceberg",
+    "lakehouse",
+
+    "enterprise spending",
+    "it budgets",
+
+    "sustainability",
+    "esg"
+  ],
+
+  "low_signal_phrases": [
+    "market roundup",
+    "morning brief",
+    "top stocks",
+    "stocks to buy",
+    "week ahead",
+    "technical analysis",
+    "chart pattern",
+    "price action only",
+    "opinion only",
+    "blog post",
+    "podcast episode",
+    "social media buzz"
+  ]
+}

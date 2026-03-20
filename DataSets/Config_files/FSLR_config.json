@@ -1,0 +1,122 @@
+{
+  "aliases": [
+    "first solar",
+    "first solar inc",
+    "fslr",
+    "nasdaq:fslr"
+  ],
+
+  "products": [
+    "thin film solar",
+    "cdte solar",
+    "solar modules",
+    "utility-scale solar",
+    "photovoltaic modules"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "sales",
+    "profit",
+    "gross margin",
+    "operating margin",
+    "guidance",
+    "outlook",
+    "forecast",
+    "quarter",
+    "backlog",
+    "shipments",
+    "gigawatts",
+    "capacity",
+    "factory",
+    "manufacturing",
+    "expansion",
+    "plant",
+    "ceo",
+    "cfo",
+    "capital expenditure",
+    "buyback",
+    "balance sheet",
+    "free cash flow",
+    "warranty charge",
+    "impairment",
+    "litigation",
+    "patent",
+    "lawsuit",
+    "acquisition",
+    "merger",
+    "partnership"
+  ],
+
+  "policy_and_regulatory_keywords": [
+    "inflation reduction act",
+    "ira",
+    "section 45x",
+    "tax credit",
+    "domestic manufacturing",
+    "tariffs",
+    "trade investigation",
+    "import duties",
+    "anti-dumping",
+    "countervailing duties",
+    "us commerce department",
+    "itc"
+  ],
+
+  "technology_keywords": [
+    "cdte",
+    "thin film",
+    "perovskite",
+    "module efficiency",
+    "bifacial",
+    "quantum dot",
+    "manufacturing yield"
+  ],
+
+  "competitive_context_keywords": [
+    "enphase",
+    "solaredge",
+    "sunrun",
+    "canadian solar",
+    "jinkosolar",
+    "longi",
+    "array technologies",
+    "nextracker",
+    "peer comparison",
+    "market share"
+  ],
+
+  "indirect_keywords": [
+    "utility-scale",
+    "power purchase agreement",
+    "renewable infrastructure",
+    "grid",
+    "energy transition",
+    "decarbonization"
+  ],
+
+  "low_signal_phrases": [
+    "roundup",
+    "top stocks",
+    "stocks to buy",
+    "best stocks",
+    "week ahead",
+    "market recap",
+    "marketwide",
+    "sector roundup",
+    "why this stock moved",
+    "what to knowpre-market",    "what to know",
+    "after-hours",
+    "podcast",
+    "opinion",
+    "blog",
+    "analysis",
+    "commentary",
+    "etf",
+    "index",
+    "s&p 500",
+    "nasdaq composite",
+    "dow jones"
+  ]
+}

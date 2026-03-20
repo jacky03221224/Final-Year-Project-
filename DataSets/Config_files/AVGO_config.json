@@ -1,0 +1,87 @@
+{
+  "aliases": [
+    "broadcom",
+    "broadcom inc",
+    "avgo",
+    "nasdaq:avgo"
+  ],
+
+  "products": [
+    "custom silicon",
+    "ASIC",
+    "AI chip",
+    "networking chip",
+    "ethernet switch",
+    "data center networking",
+    "optical interconnect",
+    "wireless connectivity",
+    "broadband chipset",
+    "storage controller",
+    "VMware",
+    "VMware Cloud Foundation",
+    "virtualization software",
+    "enterprise software",
+    "private cloud"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "guidance",
+    "forecast",
+    "outlook",
+    "EPS",
+    "margin",
+    "free cash flow",
+    "dividend",
+    "buyback",
+    "acquisition",
+    "merger",
+    "integration",
+    "AI accelerator",
+    "custom AI",
+    "hyperscaler",
+    "data center",
+    "VMware pricing",
+    "subscription model",
+    "license change",
+    "CEO",
+    "CFO",
+    "Hock Tan"
+  ],
+
+  "indirect_keywords": [
+    "semiconductor industry",
+    "AI infrastructure",
+    "data center spending",
+    "cloud capex",
+    "enterprise IT spending",
+    "chip supply",
+    "export controls",
+    "China exposure",
+    "regulation",
+    "antitrust",
+    "competition",
+    "hyperscale customers"
+  ],
+
+  "low_signal_phrases": [
+    "top stocks",
+    "stocks to buy",
+    "best stocks",
+    "market roundup",
+    "weekly roundup",
+    "what to know",
+    "investor sentiment",
+    "technical analysis",
+    "chart analysis",
+    "price prediction",
+    "opinion",
+    "commentary",
+    "blog",
+    "podcast",
+    "newsletter",
+    "ETF",
+    "index fund"
+  ]
+}

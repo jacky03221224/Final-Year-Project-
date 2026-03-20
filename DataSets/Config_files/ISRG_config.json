@@ -1,0 +1,79 @@
+{
+  "aliases": [
+    "intuitive surgical",
+    "isrg",
+    "nasdaq:isrg"
+  ],
+
+  "products": [
+    "da vinci surgical system",
+    "da vinci 5",
+    "da vinci xi",
+    "da vinci sp",
+    "ion endoluminal system",
+    "robotic-assisted surgery",
+    "surgical instruments",
+    "surgical accessories"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "gross margin",
+    "operating margin",
+    "EPS",
+    "free cash flow",
+    "procedure growth",
+    "procedure volume",
+    "system placements",
+    "installed base",
+    "recurring revenue",
+    "instruments and accessories",
+    "guidance",
+    "outlook",
+    "FDA clearance",
+    "CE mark",
+    "product recall",
+    "tariffs",
+    "China exposure",
+    "hospital capex",
+    "CEO transition",
+    "CEO",
+    "CFO"
+  ],
+
+  "indirect_keywords": [
+    "robotic surgery market",
+    "minimally invasive surgery",
+    "medical device regulation",
+    "medtech competition",
+    "reimbursement environment",
+    "healthcare spending",
+    "currency headwinds",
+    "supply chain"
+  ],
+
+  "low_signal_phrases": [
+    "top stocks",
+    "stocks to buy",
+    "best healthcare stocks",
+    "buy and hold",
+    "long-term pick",
+    "ETF",
+    "index fund",
+    "Jim Cramer",
+    "Mad Money",
+    "market roundup",
+    "daily market",
+    "price movement",
+    "stock jumps",
+    "stock falls",
+    "technical analysis",
+    "chart analysis",
+    "opinion",
+    "commentary",
+    "blog",
+    "newsletter",
+    "podcast"
+  ]
+}

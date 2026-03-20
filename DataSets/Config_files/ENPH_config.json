@@ -1,0 +1,91 @@
+{
+  "aliases": [
+    "enphase energy",
+    "enph",
+    "nasdaq:enph"
+  ],
+
+  "products": [
+    "microinverter",
+    "IQ8 microinverter",
+    "IQ battery",
+    "battery storage",
+    "home energy system",
+    "energy management software",
+    "EV charger"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "gross margin",
+    "operating margin",
+    "EPS",
+    "free cash flow",
+    "cash flow",
+    "guidance",
+    "outlook",
+    "residential solar demand",
+    "battery attach rate",
+    "shipment volumes",
+    "inventory",
+    "pricing",
+    "cost reduction",
+    "restructuring",
+    "layoffs",
+    "manufacturing footprint",
+    "domestic content",
+    "IRA",
+    "Section 25D",
+    "tariffs",
+    "CEO",
+    "CFO"
+  ],
+
+  "indirect_keywords": [
+    "residential solar market",
+    "interest rates",
+    "financing availability",
+    "installer demand",
+    "Europe solar demand",
+    "US solar demand",
+    "California NEM",
+    "policy uncertainty",
+    "trade policy",
+    "China supply chain",
+    "battery storage adoption"
+  ],
+
+  "low_signal_phrases": [
+    "top stocks",
+    "stocks to buy",
+    "best renewable stocks",
+    "best solar stocks",
+    "best ESG stocks",
+    "ETF",
+    "index",
+    "S&P 500",
+    "NASDAQ",
+    "market roundup",
+    "what moved markets",
+    "price movement",
+    "stock jumps",
+    "stock falls",
+    "technical analysis",
+    "chart analysis",
+    "momentum",
+    "opinion",
+    "commentary",
+    "blog",
+    "newsletter",
+    "podcast",
+    "Jim Cramer",
+    "Mad Money",
+    "Reddit",
+    "hedge fund",
+    "class action",
+    "law firm",
+    "investigation",
+    "lawsuit"
+  ]
+}

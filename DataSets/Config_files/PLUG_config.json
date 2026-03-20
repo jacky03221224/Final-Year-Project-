@@ -1,0 +1,111 @@
+{
+  "aliases": [
+    "plug power",
+    "plug power inc",
+    "plug",
+    "plug stock",
+    "plug power nasdaq",
+    "hydrogen stock",
+    "fuel cell maker"
+  ],
+
+  "products": [
+    "hydrogen fuel cell",
+    "fuel cell",
+    "electrolyzer",
+    "pem electrolyzer",
+    "green hydrogen",
+    "liquid hydrogen",
+    "hydrogen plant",
+    "plug symposium",
+    "geneco",
+    "gendrive",
+    "genfuel"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "sales",
+    "gross margin",
+    "operating margin",
+    "cash burn",
+    "liquidity",
+    "guidance",
+    "outlook",
+    "forecast",
+    "quarter",
+    "full year",
+
+    "capital raise",
+    "equity offering",
+    "dilution",
+    "debt facility",
+    "credit facility",
+    "loan guarantee",
+    "doe loan",
+
+    "electrolyzer deployment",
+    "hydrogen production",
+    "plant commissioning",
+    "capacity expansion",
+    "project delay",
+
+    "partnership",
+    "strategic agreement",
+    "joint venture",
+    "supply agreement",
+
+    "hydrogen tax credit",
+    "production tax credit",
+    "ira",
+    "clean hydrogen"
+  ],
+
+  "indirect_keywords": [
+    "renewable energy",
+    "clean energy",
+    "energy transition",
+    "hydrogen economy",
+    "fuel cell industry",
+    "electrolyzer market",
+
+    "department of energy",
+    "treasury",
+    "tax credit rules",
+    "subsidy",
+    "energy policy",
+    "government funding",
+
+    "competitor",
+    "bloom energy",
+    "fuelcell energy",
+    "ballard power",
+    "nikola",
+
+    "short interest",
+    "short squeeze",
+    "penny stock",
+
+    "sustainability",
+    "esg"
+  ],
+
+  "low_signal_phrases": [
+    "market roundup",
+    "morning brief",
+    "top gainers",
+    "top losers",
+    "stocks to watch",
+    "week ahead",
+
+    "technical analysis",
+    "chart pattern",
+    "price action only",
+
+    "opinion only",
+    "blog post",
+    "podcast episode",
+    "social media buzz"
+  ]
+}

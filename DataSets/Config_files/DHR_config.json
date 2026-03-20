@@ -1,0 +1,88 @@
+{
+  "aliases": [
+    "danaher",
+    "danaher corporation",
+    "dhr",
+    "nyse:dhr"
+  ],
+
+  "products": [
+    "bioprocessing",
+    "life sciences tools",
+    "diagnostics",
+    "molecular diagnostics",
+    "clinical diagnostics",
+    "cepheid",
+    "beckman coulter",
+    "sciex",
+    "leica biosystems",
+    "genedata",
+    "laboratory instruments",
+    "research tools"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "core revenue",
+    "EPS",
+    "margin",
+    "operating margin",
+    "free cash flow",
+    "cash flow",
+    "guidance",
+    "outlook",
+    "bioprocessing demand",
+    "order growth",
+    "instrument demand",
+    "recurring revenue",
+    "pricing",
+    "cost controls",
+    "acquisition",
+    "divestiture",
+    "portfolio reshaping",
+    "capital allocation",
+    "share buyback",
+    "CEO",
+    "CFO"
+  ],
+
+  "indirect_keywords": [
+    "life sciences funding",
+    "biotech spending",
+    "pharma R&D",
+    "diagnostics demand",
+    "China demand",
+    "academic research funding",
+    "NIH funding",
+    "instrument replacement cycle",
+    "healthcare regulation",
+    "tariffs",
+    "supply chain"
+  ],
+
+  "low_signal_phrases": [
+    "top stocks",
+    "stocks to buy",
+    "best stocks",
+    "best healthcare stocks",
+    "market roundup",
+    "week ahead",
+    "fund letter",
+    "portfolio update",
+    "ETF",
+    "index fund",
+    "passive income",
+    "dividend portfolio",
+    "Jim Cramer",
+    "Mad Money",
+    "opinion",
+    "commentary",
+    "blog",
+    "newsletter",
+    "podcast",
+    "technical analysis",
+    "chart analysis",
+    "price prediction"
+  ]
+}

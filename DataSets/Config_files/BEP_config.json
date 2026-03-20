@@ -1,0 +1,82 @@
+{
+  "aliases": [
+    "brookfield renewable",
+    "brookfield renewable partners",
+    "bep",
+    "bep.un",
+    "nyse:bep",
+    "tsx:bep.un"
+  ],
+
+  "products": [
+    "hydroelectric power",
+    "wind power",
+    "solar power",
+    "offshore wind",
+    "renewable energy",
+    "energy storage",
+    "battery storage",
+    "clean power",
+    "power purchase agreement",
+    "PPA",
+    "utility-scale renewables"
+  ],
+
+  "direct_keywords": [
+    "earnings",
+    "revenue",
+    "funds from operations",
+    "FFO",
+    "guidance",
+    "outlook",
+    "cash flow",
+    "distribution",
+    "dividend",
+    "payout ratio",
+    "acquisition",
+    "asset sale",
+    "capital recycling",
+    "project acquisition",
+    "power purchase agreement",
+    "long-term contract",
+    "financing",
+    "green bonds",
+    "CEO",
+    "CFO"
+  ],
+
+  "indirect_keywords": [
+    "renewable energy transition",
+    "electricity demand",
+    "AI data centers",
+    "power demand growth",
+    "utility sector",
+    "infrastructure investment",
+    "interest rates",
+    "inflation-linked contracts",
+    "ESG",
+    "decarbonization",
+    "regulation",
+    "energy policy"
+  ],
+
+  "low_signal_phrases": [
+    "top dividend stocks",
+    "stocks to buy",
+    "best energy stocks",
+    "high-yield picks",
+    "passive income",
+    "retirement portfolio",
+    "buy and hold forever",
+    "opinion",
+    "commentary",
+    "blog",
+    "newsletter",
+    "podcast",
+    "ETF",
+    "index fund",
+    "technical analysis",
+    "price prediction",
+    "chart analysis"
+  ]
+}
