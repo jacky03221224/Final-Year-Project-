@@ -204,7 +204,7 @@ def main():
 
     args = parser.parse_args()
 
-    processed_dir = "DataSets/Processed_Datasets_TFIDF"
+    processed_dir = "DataSets/Processed_Datasets_Transformer"
     outputs_dir = "Sentiment_Score/Directional_Score/Directional_Result"
     train_dir = "Sentiment_Score/Directional_Score/Directional_Train"
 

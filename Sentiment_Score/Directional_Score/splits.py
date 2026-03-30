@@ -2,7 +2,7 @@ import argparse
 import os
 import pandas as pd
 
-def split_csv(input_csv, chunk_size=100):
+def split_csv(input_csv, chunk_size=50):
     # Derive ticker from filename
     base = os.path.basename(input_csv)
     ticker = base.split('_')[0]
@@ -20,9 +20,9 @@ def split_csv(input_csv, chunk_size=100):
         print(f"Saved {out_name} with {len(chunk)} rows.")
 
 def main():
-    parser = argparse.ArgumentParser(description="Split a CSV file into multiple files of 100 rows each.")
+    parser = argparse.ArgumentParser(description="Split a CSV file into multiple files of 50 rows each.")
     parser.add_argument("input_csv", help="Input CSV filename (e.g. ABT_sample_full.csv)")
-    parser.add_argument("--chunk_size", type=int, default=100, help="Number of rows per output file (default: 100)")
+    parser.add_argument("--chunk_size", type=int, default=50, help="Number of rows per output file (default: 50)")
     args = parser.parse_args()
 
     # Default directory for input files

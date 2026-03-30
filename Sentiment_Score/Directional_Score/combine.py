@@ -38,11 +38,13 @@ def combine_sample_and_output(output_csv_name, sample_csv_name):
 
 def main():
     parser = argparse.ArgumentParser(description="Combine sampled_full and output CSVs and save as <Ticker>_train.csv in Directional_Train.")
-    parser.add_argument("output_csv_name", help="Name of the output CSV file in Directional_Outputs (e.g., ABT_output.csv)")
-    parser.add_argument("sample_csv_name", help="Name of the sampled_full CSV file in Directional_Sample (e.g., ABT_sample_full.csv)")
+    parser.add_argument("--sample", required=True, help="Name of the sampled_full CSV file in Directional_Sample (e.g., ABT_sample_full.csv)")
     args = parser.parse_args()
 
-    combine_sample_and_output(args.output_csv_name, args.sample_csv_name)
+    # Always infer output file name from sample
+    ticker = args.sample.split('_')[0]
+    output_name = f"{ticker}_output.csv"
+    combine_sample_and_output(output_name, args.sample)
 
 if __name__ == "__main__":
     main()
