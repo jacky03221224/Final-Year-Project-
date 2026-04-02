@@ -1,0 +1,41 @@
+import yfinance as yf
+import pandas as pd
+from datetime import datetime
+
+====================== CONFIGURATION ======================
+start_date = '2025-10-01'          # Change if you want earlier data
+end_date   = datetime.now().strftime('%Y-%m-%d')
+
+tickers = ['SPY', 'IWM', 'IWD', 'IWF', 'IRX']
+
+print("Fetching data from Yahoo Finance...")
+data = yf.download(tickers, start=start_date, end=end_date, progress=False)['Adj Close']
+
+====================== COMPUTE PROXIES ======================
+proxies = pd.DataFrame(index=data.index)
+
+Mkt-RF: SPY daily return minus daily RF
+proxies['Mkt-RF'] = data['SPY'].pct_change() * 100 - (data['IRX'] / 365)
+
+SMB: IWM - SPY daily return
+proxies['SMB'] = (data['IWM'] - data['SPY']).pct_change() * 100
+
+HML: IWD - IWF daily return
+proxies['HML'] = (data['IWD'] - data['IWF']).pct_change() * 100
+
+RF: daily approximation
+proxies['RF'] = data['IRX'] / 365
+
+proxies = proxies.dropna()   # Remove first row (NaN)
+
+====================== OUTPUT ======================
+print("\n=== FF3 PROXIES (last 15 trading days) ===")
+print(proxies.tail(15).round(4))
+
+print("\nFull date range:")
+print(f"From {proxies.index.min().date()} to {proxies.index.max().date()}")
+print(f"Total trading days: {len(proxies)}")
+
+Save to CSV for your model
+proxies.to_csv('FF3_proxies_Oct_Nov_2025.csv')
+print("\nSaved to 'FF3_proxies_Oct_Nov_2025.csv'")
