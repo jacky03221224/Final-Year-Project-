@@ -37,8 +37,8 @@ def combine_sample_and_output(output_csv_name, sample_csv_name):
     train_filename = f"{ticker}_train.csv"
     train_path = os.path.join(train_dir, train_filename)
 
-    # Save to train_dir
-    combined_df.to_csv(train_path, index=False)
+    # Save to train_dir with header
+    combined_df.to_csv(train_path, index=False, header=True)
     print(f"Combined file saved to {train_path}")
 
 def main():
